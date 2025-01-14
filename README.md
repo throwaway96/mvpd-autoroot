@@ -1,8 +1,5 @@
 # mvpd-autoroot
 
-> [!IMPORTANT]
-> This hasn't been well tested yet.
-
 This is a tool to root and automatically install
 [Homebrew Channel](https://github.com/webosbrew/webos-homebrew-channel) on
 LG TVs with webOS 1 through 3.4.2. It uses a vulnerability in `mvpd-service`.
